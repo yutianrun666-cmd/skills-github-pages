@@ -1,4 +1,5 @@
 theme: minima
+baseurl: "/skills-github-pages"
 title: My Study Blog
 author: Me
 description: Learning GitHub & Markdown
