@@ -9,4 +9,5 @@ title: Welcome to my blog!
 ```powershell
 ffmpeg test
 ## 全部博文
-- [i love selena forever](/2026/06/05/title/)
+- [i love selena forever]({% post_url 2026-06-05-title %})
+
