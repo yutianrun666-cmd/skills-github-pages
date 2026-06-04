@@ -9,6 +9,5 @@ title: Welcome to my blog!
 ```powershell
 ffmpeg test
 ## 全部博文
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+- [i love selena forever](/2026/06/05/title.html)
+
