@@ -4,3 +4,4 @@ title: My Study Blog
 author: Me
 description: Learning GitHub & Markdown
 permalink: /:year/:month/:day/:title/
+future: true
