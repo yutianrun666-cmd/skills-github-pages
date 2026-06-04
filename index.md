@@ -8,3 +8,7 @@ title: Welcome to my blog!
 ## Small code
 ```powershell
 ffmpeg test
+## 全部博文
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
