@@ -9,5 +9,4 @@ title: Welcome to my blog!
 ```powershell
 ffmpeg test
 ## 全部博文
-- [i love selena forever](/skills-github-pages/2026/06/05/title/)
-
+- [i love selena forever](/skills-github-pages/2026/06/05/title.html)
